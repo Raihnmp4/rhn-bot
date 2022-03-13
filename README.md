@@ -1,0 +1,2 @@
+# rhn-bot
+Hi
